@@ -9,7 +9,6 @@
     "typescript": "^5.0.0"
   },
   "scripts": {
-    "dev": "bun run app.ts"
+    "dev": "bun run --watch app.ts"
   }
 }
-
